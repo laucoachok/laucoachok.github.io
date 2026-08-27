@@ -564,6 +564,11 @@ body {
     color: var(--white);
 }
 
+/* MINI SECTION - distinta de libros */
+.mini-section {
+    background: linear-gradient(135deg, var(--brown) 0%, #3d2e25 100%);
+}
+
 .ebook .container {
     display: grid;
     grid-template-columns: 1fr 1.5fr;
