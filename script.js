@@ -88,6 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 'sesion': 'Sesión 1 a 1',
                 'taller': 'Talleres Grupales',
                 'ebook': 'Libros',
+                'minis': 'Mis Minis',
                 'otro': 'Otra consulta'
             }[service] || service;
 
